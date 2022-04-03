@@ -14,7 +14,7 @@ import {
   Text,
   useBreakpointValue
 } from "@chakra-ui/react";
-import { RiAddLine, RiPencilLine } from "react-icons/ri";
+import { RiAddLine } from "react-icons/ri";
 import { Header } from "../../components/Header";
 import { Pagination } from "../../components/Pagination";
 import { SideBar } from "../../components/SideBar";
